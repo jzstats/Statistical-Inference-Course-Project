@@ -79,7 +79,7 @@ and *basic_inferential_data_analysis/acm_proc_article-sp.cls*:
      >   \newline  
      >   Further details can be found at the GitHub repository:  
      >   \newline  
-     >    \url{https://github.com/jzstats/Statistical-Inference-Course-Project/tree/master/simulation_exercise}  
+     >    \url{ https://github.com/jzstats/Statistical-Inference-Course-Project/tree/master/simulation_exercise }  
      > }  
      
    at the *basic_inferential_data_analysis/acm_proc_article-sp.cls*:  
@@ -89,7 +89,7 @@ and *basic_inferential_data_analysis/acm_proc_article-sp.cls*:
      >   \newline  
      >   Further details can be found at the GitHub repository:  
      >   \newline  
-     >    \url{https://github.com/jzstats/Statistical-Inference-Course-Project/tree/master/basic_inferential_data_analysis}  
+     >    \url{ https://github.com/jzstats/Statistical-Inference-Course-Project/tree/master/basic_inferential_data_analysis }  
      > }  
     
 3. The code in line 839:  
