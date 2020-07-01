@@ -1461,7 +1461,7 @@
     \newline
     Further details can be found at the GitHub repository: 
     \newline
-    \url{https://github.com/jzstats/Statistical-Inference-Course-Project/simulation_exercise}
+    \url{https://github.com/jzstats/Statistical-Inference-Course-Project/tree/master/simulation_exercise}
 }
 % End of ACM_PROC_ARTICLE-SP.CLS -- V3.2SP - 04/22/2009 --
 % Gerry Murray -- Wednesday April 22nd. 2009
